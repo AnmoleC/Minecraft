@@ -1,0 +1,82 @@
+[21:32:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:32:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:32:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:32:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:32:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:32:32] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:32:32] [Server thread/INFO]: Loading properties
+[21:32:32] [Server thread/INFO]: Default game type: SURVIVAL
+[21:32:32] [Server thread/INFO]: Generating keypair
+[21:32:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:32:32] [Server thread/INFO]: Using default channel type
+[21:32:32] [Server thread/INFO]: Preparing level "world"
+[21:32:33] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[21:32:33] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:32:36] [Server thread/INFO]: Loaded 6 recipes
+[21:32:36] [Server thread/INFO]: Loaded 825 advancements
+[21:32:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:32:39] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:32:39] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:32:40] [Server-Worker-1/INFO]: Preparing spawn area: 3%
+[21:32:40] [Server-Worker-3/INFO]: Preparing spawn area: 7%
+[21:32:41] [Server-Worker-1/INFO]: Preparing spawn area: 12%
+[21:32:41] [Server-Worker-6/INFO]: Preparing spawn area: 19%
+[21:32:42] [Server-Worker-4/INFO]: Preparing spawn area: 24%
+[21:32:42] [Server-Worker-4/INFO]: Preparing spawn area: 27%
+[21:32:43] [Server-Worker-1/INFO]: Preparing spawn area: 36%
+[21:32:43] [Server-Worker-1/INFO]: Preparing spawn area: 44%
+[21:32:44] [Server-Worker-5/INFO]: Preparing spawn area: 48%
+[21:32:44] [Server-Worker-6/INFO]: Preparing spawn area: 58%
+[21:32:45] [Server-Worker-3/INFO]: Preparing spawn area: 65%
+[21:32:45] [Server-Worker-2/INFO]: Preparing spawn area: 72%
+[21:32:46] [Server-Worker-6/INFO]: Preparing spawn area: 78%
+[21:32:46] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[21:32:47] [Server-Worker-2/INFO]: Preparing spawn area: 92%
+[21:32:47] [Server thread/INFO]: Time elapsed: 8489 ms
+[21:32:47] [Server thread/INFO]: Done (14.759s)! For help, type "help"
+[21:34:36] [User Authenticator #1/INFO]: UUID of player Alpha_C2 is 638358c7-8846-428c-bdc9-8d4c3f2f030e
+[21:34:36] [Server thread/INFO]: Alpha_C2[/192.168.0.13:63786] logged in with entity id 339 at (-102.5, 65.0, 44.5)
+[21:34:36] [Server thread/INFO]: Alpha_C2 joined the game
+[21:35:04] [Server thread/INFO]: Alpha_C2 lost connection: Disconnected
+[21:35:04] [Server thread/INFO]: Alpha_C2 left the game
+[21:38:01] [User Authenticator #2/INFO]: UUID of player Alpha_C2 is 638358c7-8846-428c-bdc9-8d4c3f2f030e
+[21:38:01] [Server thread/INFO]: Alpha_C2[/192.168.0.13:63943] logged in with entity id 544 at (-132.20553285362962, 78.0, 46.356201530233925)
+[21:38:01] [Server thread/INFO]: Alpha_C2 joined the game
+[21:39:54] [Server thread/INFO]: Alpha_C2 lost connection: Disconnected
+[21:39:54] [Server thread/INFO]: Alpha_C2 left the game
+[21:41:34] [User Authenticator #3/INFO]: UUID of player Alpha_C2 is 638358c7-8846-428c-bdc9-8d4c3f2f030e
+[21:41:34] [Server thread/INFO]: Alpha_C2[/192.168.0.13:64076] logged in with entity id 750 at (-135.3963561433919, 85.0, 47.98645579662946)
+[21:41:35] [Server thread/INFO]: Alpha_C2 joined the game
+[21:41:54] [Server thread/INFO]: Alpha_C2 lost connection: Disconnected
+[21:41:54] [Server thread/INFO]: Alpha_C2 left the game
+[21:42:29] [User Authenticator #4/INFO]: UUID of player Alpha_C2 is 638358c7-8846-428c-bdc9-8d4c3f2f030e
+[21:42:29] [Server thread/INFO]: Alpha_C2[/192.168.0.13:64133] logged in with entity id 793 at (-136.11031072769475, 85.0, 47.96052565461873)
+[21:42:29] [Server thread/INFO]: Alpha_C2 joined the game
+[21:43:00] [Server thread/INFO]: Alpha_C2 lost connection: Disconnected
+[21:43:00] [Server thread/INFO]: Alpha_C2 left the game
+[21:44:54] [User Authenticator #5/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[21:44:54] [Server thread/INFO]: Harmonis[/72.39.70.249:53375] logged in with entity id 863 at (-116.5, 70.0, 38.5)
+[21:44:54] [Server thread/INFO]: Harmonis joined the game
+[21:44:55] [User Authenticator #6/INFO]: UUID of player Alpha_C2 is 638358c7-8846-428c-bdc9-8d4c3f2f030e
+[21:44:55] [Server thread/INFO]: Alpha_C2[/192.168.0.13:64230] logged in with entity id 873 at (-135.18286628793126, 85.0, 47.75170248413653)
+[21:44:55] [Server thread/INFO]: Alpha_C2 joined the game
+[21:45:03] [Server thread/INFO]: Alpha_C2 lost connection: Disconnected
+[21:45:03] [Server thread/INFO]: Alpha_C2 left the game
+[21:45:11] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[21:45:11] [Server thread/INFO]: Harmonis left the game
+[21:45:26] [Server thread/INFO]: Unknown command
+[21:45:26] [Server thread/INFO]: q<--[HERE]
+[21:45:31] [Server thread/INFO]: Unknown command
+[21:45:31] [Server thread/INFO]: quit<--[HERE]
+[21:47:03] [Server thread/INFO]: Stopping server
+[21:47:03] [Server thread/INFO]: Saving players
+[21:47:03] [Server thread/INFO]: Saving worlds
+[21:47:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:47:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:47:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:47:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:47:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:47:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:47:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:47:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:47:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
