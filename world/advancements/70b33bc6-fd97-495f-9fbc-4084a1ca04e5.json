@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-04-07 22:42:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-03-26 22:45:09 -0400"
@@ -1922,6 +1928,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2020-04-07 23:06:50 -0400",
       "minecraft:sheep": "2020-03-29 01:01:36 -0400",
       "minecraft:cow": "2020-03-26 23:01:31 -0400",
       "minecraft:chicken": "2020-03-26 22:25:53 -0400",
