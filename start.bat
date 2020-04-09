@@ -7,5 +7,4 @@ echo "Persisting Minecraft world to GitHub"
 git add .
 git commit -m "Updating Minecraft world"
 git push
-echo "Press any key to exit"
 pause
