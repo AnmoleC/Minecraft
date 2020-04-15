@@ -1,33 +1,16 @@
-[11:47:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:47:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:47:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:47:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:47:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:47:17] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[11:47:17] [Server thread/INFO]: Loading properties
-[11:47:17] [Server thread/INFO]: Default game type: SURVIVAL
-[11:47:17] [Server thread/INFO]: Generating keypair
-[11:47:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:47:17] [Server thread/INFO]: Using default channel type
-[11:47:18] [Server thread/INFO]: Preparing level "world"
-[11:47:18] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:47:22] [Server thread/INFO]: Loaded 6 recipes
-[11:47:22] [Server thread/INFO]: Loaded 825 advancements
-[11:47:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:47:22] [Server thread/INFO]: Preparing spawn area: 0%
-[11:47:22] [Server thread/INFO]: Preparing spawn area: 0%
-[11:47:23] [Server thread/INFO]: Time elapsed: 902 ms
-[11:47:23] [Server thread/INFO]: Done (4.587s)! For help, type "help"
-[11:47:37] [Server thread/INFO]: Stopping the server
-[11:47:37] [Server thread/INFO]: Stopping server
-[11:47:37] [Server thread/INFO]: Saving players
-[11:47:37] [Server thread/INFO]: Saving worlds
-[11:47:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[11:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:47:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[11:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:47:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[11:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:28:22] [User Authenticator #27/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[00:28:22] [Server thread/INFO]: Harmonis[/72.39.70.249:56762] logged in with entity id 176683 at (-222.68506676342824, 67.0, 223.04720828849355)
+[00:28:22] [Server thread/INFO]: Harmonis joined the game
+[00:28:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/176718, l='world', x=-227.80, y=65.00, z=242.35]
+[00:29:50] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/176861, l='world', x=-228.80, y=65.00, z=240.60]
+[00:31:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/177041, l='world', x=-227.44, y=65.00, z=241.38]
+[00:38:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/177942, l='world', x=-227.20, y=65.00, z=241.02]
+[00:40:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/178085, l='world', x=-227.70, y=65.83, z=242.47]
+[00:48:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/179210, l='world', x=-227.80, y=65.00, z=242.80]
+[00:49:42] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[00:49:42] [Server thread/INFO]: Harmonis left the game
+[15:27:50] [User Authenticator #28/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[15:27:50] [Server thread/INFO]: Harmonis[/72.39.70.249:50689] logged in with entity id 179507 at (-226.67088793266493, 67.0, 213.8689796966505)
+[15:27:50] [Server thread/INFO]: Harmonis joined the game
+[15:32:07] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[15:32:07] [Server thread/INFO]: Harmonis left the game
