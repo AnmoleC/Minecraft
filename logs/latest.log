@@ -1,16 +1,25 @@
-[00:28:22] [User Authenticator #27/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
-[00:28:22] [Server thread/INFO]: Harmonis[/72.39.70.249:56762] logged in with entity id 176683 at (-222.68506676342824, 67.0, 223.04720828849355)
-[00:28:22] [Server thread/INFO]: Harmonis joined the game
-[00:28:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/176718, l='world', x=-227.80, y=65.00, z=242.35]
-[00:29:50] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/176861, l='world', x=-228.80, y=65.00, z=240.60]
-[00:31:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/177041, l='world', x=-227.44, y=65.00, z=241.38]
-[00:38:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/177942, l='world', x=-227.20, y=65.00, z=241.02]
-[00:40:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/178085, l='world', x=-227.70, y=65.83, z=242.47]
-[00:48:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/179210, l='world', x=-227.80, y=65.00, z=242.80]
-[00:49:42] [Server thread/INFO]: Harmonis lost connection: Disconnected
-[00:49:42] [Server thread/INFO]: Harmonis left the game
-[15:27:50] [User Authenticator #28/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
-[15:27:50] [Server thread/INFO]: Harmonis[/72.39.70.249:50689] logged in with entity id 179507 at (-226.67088793266493, 67.0, 213.8689796966505)
-[15:27:50] [Server thread/INFO]: Harmonis joined the game
-[15:32:07] [Server thread/INFO]: Harmonis lost connection: Disconnected
-[15:32:07] [Server thread/INFO]: Harmonis left the game
+[00:09:54] [User Authenticator #47/INFO]: UUID of player Alpha_C2 is 638358c7-8846-428c-bdc9-8d4c3f2f030e
+[00:09:54] [Server thread/INFO]: Alpha_C2[/192.168.0.11:53154] logged in with entity id 183567 at (149.4225860301889, 66.8500000178814, 336.3609895660336)
+[00:09:54] [Server thread/INFO]: Alpha_C2 joined the game
+[00:17:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/185974, l='world', x=-228.80, y=65.00, z=241.80]
+[00:18:46] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/186218, l='world', x=-227.20, y=65.00, z=242.80]
+[00:21:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/186734, l='world', x=-228.80, y=65.00, z=240.20]
+[00:25:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/187669, l='world', x=-227.20, y=65.00, z=242.80]
+[00:26:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/187768, l='world', x=-228.80, y=66.00, z=243.17]
+[00:28:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/187983, l='world', x=-228.80, y=65.00, z=240.20]
+[00:28:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/188063, l='world', x=-227.20, y=65.00, z=240.55]
+[00:34:38] [Server thread/INFO]: Alpha_C2 lost connection: Disconnected
+[00:34:38] [Server thread/INFO]: Alpha_C2 left the game
+[00:36:37] [Server thread/INFO]: Stopping the server
+[00:36:37] [Server thread/INFO]: Stopping server
+[00:36:37] [Server thread/INFO]: Saving players
+[00:36:37] [Server thread/INFO]: Saving worlds
+[00:36:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
