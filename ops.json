@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "70b33bc6-fd97-495f-9fbc-4084a1ca04e5",
+    "name": "Harmonis",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "638358c7-8846-428c-bdc9-8d4c3f2f030e",
+    "name": "Alpha_C2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
