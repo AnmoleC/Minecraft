@@ -1,13 +1,47 @@
-[15:07:52] [Server thread/INFO]: Stopping the server
-[15:07:52] [Server thread/INFO]: Stopping server
-[15:07:52] [Server thread/INFO]: Saving players
-[15:07:52] [Server thread/INFO]: Saving worlds
-[15:07:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[15:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:07:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[15:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:07:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[15:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:02:43] [User Authenticator #16/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[00:02:43] [Server thread/INFO]: Harmonis[/72.39.70.249:51522] logged in with entity id 45211 at (-567.6145354111309, 62.01523493490129, -109.69999998807907)
+[00:02:44] [Server thread/INFO]: Harmonis joined the game
+[00:03:56] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[00:03:56] [Server thread/INFO]: Harmonis left the game
+[00:05:55] [User Authenticator #17/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[00:05:56] [Server thread/INFO]: Harmonis[/72.39.70.249:51628] logged in with entity id 45592 at (-560.5011357687745, 64.0, -117.16997981450923)
+[00:05:56] [Server thread/INFO]: Harmonis joined the game
+[00:09:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/47707, l='world', x=-228.80, y=65.00, z=241.80]
+[00:11:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/48061, l='world', x=-227.20, y=65.00, z=242.44]
+[00:14:38] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/48474, l='world', x=-228.33, y=66.00, z=243.17]
+[00:26:38] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50049, l='world', x=-228.80, y=66.00, z=242.27]
+[00:28:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50283, l='world', x=-227.80, y=65.00, z=242.80]
+[00:29:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50360, l='world', x=-227.20, y=65.00, z=241.71]
+[00:29:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50465, l='world', x=-228.33, y=66.00, z=242.33]
+[00:30:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50474, l='world', x=-228.56, y=65.00, z=240.20]
+[00:31:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50615, l='world', x=-227.80, y=65.00, z=242.34]
+[00:32:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50727, l='world', x=-228.02, y=65.00, z=241.29]
+[00:36:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/51244, l='world', x=-228.80, y=65.00, z=240.20]
+[00:38:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/51544, l='world', x=-228.26, y=66.00, z=241.86]
+[00:41:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/51976, l='world', x=-227.60, y=65.00, z=241.83]
+[00:42:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/52150, l='world', x=-227.80, y=65.00, z=242.15]
+[00:43:36] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/52231, l='world', x=-227.59, y=65.00, z=240.20]
+[00:45:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/52462, l='world', x=-227.80, y=65.00, z=241.92]
+[00:46:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/52573, l='world', x=-227.80, y=65.00, z=242.80]
+[00:47:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/52672, l='world', x=-227.20, y=65.00, z=240.21]
+[00:49:53] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/53090, l='world', x=-228.80, y=66.00, z=242.78]
+[00:51:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/53316, l='world', x=-228.18, y=65.00, z=241.46]
+[00:54:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/53692, l='world', x=-227.20, y=65.00, z=242.21]
+[00:58:48] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[00:58:48] [Server thread/INFO]: Harmonis left the game
+[01:00:58] [User Authenticator #18/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[01:00:58] [Server thread/INFO]: Harmonis[/72.39.70.249:53362] logged in with entity id 54271 at (-216.6890526900183, 67.0, 218.61273767966466)
+[01:00:58] [Server thread/INFO]: Harmonis joined the game
+[01:01:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/54358, l='world', x=-227.80, y=65.00, z=242.80]
+[01:18:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/56443, l='world', x=-228.80, y=65.00, z=241.01]
+[01:18:55] [Server thread/INFO]: Harmonis has made the advancement [Cover Me With Diamonds]
+[01:24:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57228, l='world', x=-227.20, y=65.00, z=242.80]
+[01:24:54] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57272, l='world', x=-228.80, y=65.00, z=241.80]
+[01:26:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57528, l='world', x=-227.27, y=65.00, z=240.84]
+[01:30:01] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/57995, l='world', x=-227.80, y=65.00, z=242.80]
+[01:47:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59993, l='world', x=-228.31, y=65.00, z=240.93]
+[01:47:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/59994, l='world', x=-228.02, y=65.00, z=241.01]
+[01:47:57] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/60087, l='world', x=-227.20, y=65.00, z=242.80]
+[01:49:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/60274, l='world', x=-227.20, y=65.00, z=242.35]
+[01:58:35] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[01:58:35] [Server thread/INFO]: Harmonis left the game
