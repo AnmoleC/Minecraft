@@ -723,7 +723,8 @@
       "minecraft:enderman": "2020-03-30 23:27:14 -0400",
       "minecraft:stray": "2020-04-10 18:21:09 -0400",
       "minecraft:zombie": "2020-03-26 22:24:56 -0400",
-      "minecraft:drowned": "2020-04-01 01:11:09 -0400"
+      "minecraft:drowned": "2020-04-01 01:11:09 -0400",
+      "minecraft:zombie_villager": "2020-04-22 18:02:15 -0400"
     },
     "done": false
   },
@@ -1772,6 +1773,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2020-04-17 21:01:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2020-04-22 17:57:22 -0400"
     },
     "done": true
   },
