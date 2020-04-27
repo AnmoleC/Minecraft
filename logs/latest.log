@@ -1,10 +1,54 @@
-[17:40:38] [User Authenticator #2/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
-[17:40:38] [Server thread/INFO]: Harmonis[/72.39.70.249:63463] logged in with entity id 1697 at (-234.02959535755994, 64.0, 283.7445400571399)
-[17:40:38] [Server thread/INFO]: Harmonis joined the game
-[17:50:17] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3788, l='world', x=-227.80, y=65.00, z=242.80]
-[17:57:22] [Server thread/INFO]: Harmonis has completed the challenge [Sniper Duel]
-[18:02:21] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5554, l='world', x=-227.64, y=65.00, z=240.99]
-[18:06:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6696, l='world', x=-227.79, y=65.00, z=240.46]
-[18:19:13] [Server thread/INFO]: Harmonis lost connection: Disconnected
-[18:19:13] [Server thread/INFO]: Harmonis left the game
-[18:47:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@624bc504[id=<null>,name=Harmonis,properties={},legacy=false] (/72.39.70.249:65519) lost connection: Disconnected
+[15:18:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:18:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:18:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:18:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:18:09] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:18:09] [Server thread/INFO]: Loading properties
+[15:18:09] [Server thread/INFO]: Default game type: SURVIVAL
+[15:18:09] [Server thread/INFO]: Generating keypair
+[15:18:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:18:09] [Server thread/INFO]: Using default channel type
+[15:18:10] [Server thread/INFO]: Preparing level "world"
+[15:18:10] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:18:14] [Server thread/INFO]: Loaded 6 recipes
+[15:18:14] [Server thread/INFO]: Loaded 825 advancements
+[15:18:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:18:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:18:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:18:15] [Server thread/INFO]: Time elapsed: 851 ms
+[15:18:15] [Server thread/INFO]: Done (5.425s)! For help, type "help"
+[15:18:44] [User Authenticator #1/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[15:18:44] [Server thread/INFO]: Harmonis[/72.39.70.249:63538] logged in with entity id 430 at (-179.69999998807907, 58.0, 83.24222137740786)
+[15:18:44] [Server thread/INFO]: Harmonis joined the game
+[15:25:36] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[15:25:36] [Server thread/INFO]: Harmonis left the game
+[15:26:25] [User Authenticator #2/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[15:26:25] [Server thread/INFO]: Harmonis[/72.39.70.249:63817] logged in with entity id 1175 at (-179.98089064654724, 58.0, 83.66829732844299)
+[15:26:25] [Server thread/INFO]: Harmonis joined the game
+[16:12:37] [Server thread/INFO]: Villager axw['Villager'/384, l='world', x=-336.09, y=65.00, z=243.48] died, message: 'Villager was slain by Vindicator'
+[16:12:41] [Server thread/INFO]: Villager axw['Villager'/412, l='world', x=-352.69, y=65.00, z=241.38] died, message: 'Villager was slain by Vindicator'
+[16:18:19] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[16:18:19] [Server thread/INFO]: Harmonis left the game
+[16:26:48] [User Authenticator #3/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[16:26:48] [Server thread/INFO]: Harmonis[/72.39.70.249:49360] logged in with entity id 7567 at (-352.92875176966936, 65.0, 229.77239627161657)
+[16:26:48] [Server thread/INFO]: Harmonis joined the game
+[16:39:45] [Server thread/INFO]: Harmonis has completed the challenge [Hero of the Village]
+[16:49:53] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[16:49:53] [Server thread/INFO]: Harmonis left the game
+[16:54:15] [User Authenticator #4/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[16:54:15] [Server thread/INFO]: Harmonis[/72.39.70.249:50221] logged in with entity id 11412 at (-387.9606347499418, 69.0, 229.64981574603163)
+[16:54:15] [Server thread/INFO]: Harmonis joined the game
+[16:56:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/11836, l='world', x=-227.20, y=65.00, z=241.83]
+[17:03:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/12655, l='world', x=-227.80, y=65.00, z=242.46]
+[17:13:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/13890, l='world', x=-228.80, y=65.00, z=240.20]
+[17:16:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14304, l='world', x=-227.70, y=65.00, z=241.91]
+[17:16:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14395, l='world', x=-228.80, y=65.00, z=241.22]
+[17:20:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14885, l='world', x=-227.80, y=65.00, z=242.35]
+[17:21:58] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[17:21:58] [Server thread/INFO]: Harmonis left the game
+[17:26:59] [User Authenticator #5/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[17:26:59] [Server thread/INFO]: Harmonis[/72.39.70.249:51260] logged in with entity id 15048 at (-257.11883765339826, 67.0, 208.66274324720035)
+[17:26:59] [Server thread/INFO]: Harmonis joined the game
+[17:33:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/16218, l='world', x=-228.26, y=65.00, z=241.80]
+[17:37:02] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[17:37:02] [Server thread/INFO]: Harmonis left the game
