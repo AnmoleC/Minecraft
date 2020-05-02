@@ -1,13 +1,66 @@
-[15:29:01] [Server thread/INFO]: Stopping the server
-[15:29:01] [Server thread/INFO]: Stopping server
-[15:29:01] [Server thread/INFO]: Saving players
-[15:29:01] [Server thread/INFO]: Saving worlds
-[15:29:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[15:29:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:29:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[15:29:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:29:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[15:29:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:29:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:29:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:29:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:07:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/214880, l='world', x=-228.80, y=66.00, z=242.73]
+[00:18:21] [Server thread/INFO]: Alpha_C2 lost connection: Disconnected
+[00:18:21] [Server thread/INFO]: Alpha_C2 left the game
+[01:00:19] [User Authenticator #35/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[01:00:19] [Server thread/INFO]: Harmonis[/72.39.70.249:65171] logged in with entity id 216894 at (-345.9834594717731, 65.0, 243.81855198771382)
+[01:00:19] [Server thread/INFO]: Harmonis joined the game
+[01:01:25] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/217192, l='world', x=-228.25, y=65.00, z=240.93]
+[01:03:46] [Server thread/INFO]: Villager axw['Villager'/364, l='world', x=-352.70, y=66.00, z=243.30] died, message: 'Villager tried to swim in lava'
+[01:03:46] [Server thread/INFO]: Villager axw['Villager'/365, l='world', x=-352.70, y=66.03, z=243.70] died, message: 'Villager tried to swim in lava'
+[01:03:46] [Server thread/INFO]: Villager axw['Villager'/366, l='world', x=-352.30, y=66.05, z=243.70] died, message: 'Villager tried to swim in lava'
+[01:03:46] [Server thread/INFO]: Villager axw['Villager'/368, l='world', x=-352.30, y=66.05, z=243.70] died, message: 'Villager tried to swim in lava'
+[01:03:46] [Server thread/INFO]: Villager axw['Villager'/369, l='world', x=-352.30, y=66.05, z=243.30] died, message: 'Villager tried to swim in lava'
+[01:03:46] [Server thread/INFO]: Villager axw['Villager'/370, l='world', x=-352.70, y=66.05, z=243.70] died, message: 'Villager tried to swim in lava'
+[01:03:46] [Server thread/INFO]: Villager axw['Villager'/371, l='world', x=-352.30, y=66.03, z=243.30] died, message: 'Villager tried to swim in lava'
+[01:03:46] [Server thread/INFO]: Villager axw['Villager'/372, l='world', x=-352.30, y=66.05, z=243.70] died, message: 'Villager tried to swim in lava'
+[01:06:24] [Server thread/INFO]: Villager axw['Villager'/367, l='world', x=-353.43, y=67.00, z=243.57] died, message: 'Villager burned to death'
+[01:10:42] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[01:10:42] [Server thread/INFO]: Harmonis left the game
+[01:13:18] [User Authenticator #36/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[01:13:18] [Server thread/INFO]: Harmonis[/72.39.70.249:49200] logged in with entity id 218686 at (-350.3996956305784, 65.0, 247.70931620161502)
+[01:13:18] [Server thread/INFO]: Harmonis joined the game
+[01:15:24] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[01:15:24] [Server thread/INFO]: Harmonis left the game
+[01:16:16] [User Authenticator #37/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[01:16:16] [Server thread/INFO]: Harmonis[/72.39.70.249:49325] logged in with entity id 218967 at (-347.0258016471265, 65.0, 238.8196761468552)
+[01:16:16] [Server thread/INFO]: Harmonis joined the game
+[01:21:26] [Server thread/INFO]: Villager axw['Cartographer'/426, l='world', x=-385.53, y=65.00, z=233.62] died, message: 'Cartographer was slain by Zombie'
+[01:21:40] [Server thread/INFO]: Villager axw['Shepherd'/427, l='world', x=-387.58, y=66.00, z=232.27] died, message: 'Shepherd was slain by Zombie'
+[01:30:43] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/221568, l='world', x=-227.62, y=65.00, z=241.63]
+[01:35:47] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/222436, l='world', x=-227.20, y=65.00, z=242.80]
+[01:39:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/222980, l='world', x=-227.80, y=65.00, z=242.29]
+[01:42:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/224179, l='world', x=-227.85, y=65.00, z=241.14]
+[01:44:43] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[01:44:43] [Server thread/INFO]: Harmonis left the game
+[02:08:27] [User Authenticator #38/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[02:08:27] [Server thread/INFO]: Harmonis[/72.39.70.249:50868] logged in with entity id 225038 at (-205.5391265433452, 65.9375, 194.9245800809252)
+[02:08:27] [Server thread/INFO]: Harmonis joined the game
+[02:10:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/225372, l='world', x=-228.34, y=65.00, z=240.81]
+[02:12:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/225638, l='world', x=-228.13, y=65.00, z=241.80]
+[02:18:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/226324, l='world', x=-227.80, y=65.00, z=242.52]
+[02:20:54] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/226861, l='world', x=-227.80, y=65.00, z=242.80]
+[02:23:54] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/227694, l='world', x=-228.80, y=65.00, z=241.37]
+[02:27:46] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/228783, l='world', x=-228.80, y=65.00, z=241.80]
+[02:44:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/232683, l='world', x=-228.80, y=66.00, z=243.17]
+[02:56:46] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/237629, l='world', x=-227.80, y=65.00, z=242.09]
+[03:01:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/238381, l='world', x=-228.80, y=65.00, z=241.80]
+[03:02:55] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[03:02:55] [Server thread/INFO]: Harmonis left the game
+[03:50:49] [User Authenticator #39/INFO]: UUID of player Alpha_C2 is 638358c7-8846-428c-bdc9-8d4c3f2f030e
+[03:50:49] [Server thread/INFO]: Alpha_C2[/192.168.0.11:50885] logged in with entity id 238602 at (-215.5374684920708, 68.0, 221.94928897895954)
+[03:50:49] [Server thread/INFO]: Alpha_C2 joined the game
+[04:13:16] [Server thread/INFO]: Alpha_C2 lost connection: Disconnected
+[04:13:16] [Server thread/INFO]: Alpha_C2 left the game
+[04:13:22] [Server thread/INFO]: Stopping the server
+[04:13:22] [Server thread/INFO]: Stopping server
+[04:13:22] [Server thread/INFO]: Saving players
+[04:13:22] [Server thread/INFO]: Saving worlds
+[04:13:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[04:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:13:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[04:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:13:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[04:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:13:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:13:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
