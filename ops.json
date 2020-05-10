@@ -10,5 +10,11 @@
     "name": "Alpha_C2",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b576b3af-9823-451e-9ff3-89e622a95304",
+    "name": "Squishflint",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

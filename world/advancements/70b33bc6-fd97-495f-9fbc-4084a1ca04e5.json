@@ -1952,6 +1952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-05-05 16:58:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-03-28 20:50:18 -0400"
@@ -2143,6 +2149,7 @@
       "cooked_mutton": "2020-03-28 21:04:03 -0400",
       "sweet_berries": "2020-05-04 18:14:51 -0400",
       "cooked_beef": "2020-03-29 00:01:50 -0400",
+      "baked_potato": "2020-05-05 17:12:21 -0400",
       "apple": "2020-03-26 22:22:04 -0400",
       "bread": "2020-03-31 01:43:28 -0400",
       "rotten_flesh": "2020-03-26 22:30:48 -0400",
@@ -2370,6 +2377,7 @@
       "minecraft:sheep": "2020-03-29 01:01:36 -0400",
       "minecraft:cow": "2020-03-26 23:01:31 -0400",
       "minecraft:chicken": "2020-03-26 22:25:53 -0400",
+      "minecraft:wolf": "2020-05-06 14:44:06 -0400",
       "minecraft:bee": "2020-03-31 02:40:42 -0400"
     },
     "done": false
@@ -3456,8 +3464,10 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/ragdoll.png": "2020-05-08 20:30:21 -0400",
       "textures/entity/cat/all_black.png": "2020-03-31 02:31:24 -0400",
-      "textures/entity/cat/red.png": "2020-04-17 21:02:55 -0400"
+      "textures/entity/cat/red.png": "2020-04-17 21:02:55 -0400",
+      "textures/entity/cat/calico.png": "2020-05-08 20:24:40 -0400"
     },
     "done": false
   },
