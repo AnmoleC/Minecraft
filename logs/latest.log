@@ -1,60 +1,20 @@
-[02:22:35] [User Authenticator #14/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
-[02:22:35] [Server thread/INFO]: Harmonis[/72.39.70.249:60237] logged in with entity id 58369 at (-237.17326574993496, 68.0, 203.32674269112263)
-[02:22:35] [Server thread/INFO]: Harmonis joined the game
-[02:44:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62902, l='world', x=-228.80, y=65.00, z=241.16]
-[02:55:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/65354, l='world', x=-227.20, y=65.00, z=242.80]
-[02:56:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/65386, l='world', x=-227.73, y=65.00, z=241.09]
-[02:57:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/65736, l='world', x=-228.33, y=65.00, z=240.20]
-[02:58:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/65852, l='world', x=-228.29, y=65.00, z=240.20]
-[02:58:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/65879, l='world', x=-227.20, y=65.00, z=241.95]
-[02:58:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/65880, l='world', x=-227.70, y=65.00, z=240.72]
-[02:58:20] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/65898, l='world', x=-227.95, y=65.00, z=240.39]
-[03:22:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71350, l='world', x=-228.33, y=65.00, z=240.70]
-[03:22:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71435, l='world', x=-227.80, y=65.00, z=242.80]
-[03:22:50] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71780, l='world', x=-228.80, y=65.00, z=240.85]
-[03:23:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/71933, l='world', x=-228.26, y=66.00, z=243.17]
-[03:26:16] [Server thread/INFO]: Villager axw['Librarian'/207, l='world', x=-318.69, y=65.00, z=247.51] died, message: 'Librarian was shot by Harmonis'
-[03:34:46] [Server thread/INFO]: Villager axw['Villager'/208, l='world', x=-317.59, y=65.56, z=247.89] died, message: 'Villager was shot by Harmonis'
-[03:41:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/75506, l='world', x=-228.80, y=65.00, z=240.20]
-[03:43:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/76001, l='world', x=-227.80, y=65.00, z=242.80]
-[03:50:12] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/77178, l='world', x=-227.48, y=65.00, z=240.40]
-[03:51:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/77415, l='world', x=-227.20, y=65.00, z=241.92]
-[04:05:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/79591, l='world', x=-227.20, y=65.00, z=240.20]
-[04:05:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/79622, l='world', x=-228.80, y=65.00, z=240.20]
-[04:10:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/80482, l='world', x=-228.44, y=65.00, z=240.20]
-[04:12:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/80728, l='world', x=-228.80, y=65.00, z=241.80]
-[04:12:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/80808, l='world', x=-227.20, y=65.84, z=242.80]
-[04:13:07] [User Authenticator #15/INFO]: UUID of player Alpha_C2 is 638358c7-8846-428c-bdc9-8d4c3f2f030e
-[04:13:07] [Server thread/INFO]: Alpha_C2[/192.168.0.11:54554] logged in with entity id 80861 at (-219.36709144131018, 67.0, 225.81068557087127)
-[04:13:07] [Server thread/INFO]: Alpha_C2 joined the game
-[04:13:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/80887, l='world', x=-227.80, y=65.00, z=242.34]
-[04:13:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/80887, l='world', x=-227.80, y=65.00, z=242.34]
-[04:14:07] [Server thread/INFO]: [Alpha_C2: Set Harmonis's game mode to Spectator Mode]
-[04:14:16] [Server thread/INFO]: [Alpha_C2: Set Harmonis's game mode to Creative Mode]
-[04:15:44] [Server thread/INFO]: [Alpha_C2: Set Harmonis's game mode to Survival Mode]
-[04:16:12] [Server thread/INFO]: Alpha_C2 lost connection: Disconnected
-[04:16:12] [Server thread/INFO]: Alpha_C2 left the game
-[04:19:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/81791, l='world', x=-227.20, y=65.00, z=242.14]
-[04:19:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/81886, l='world', x=-228.80, y=65.00, z=240.20]
-[04:20:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/81934, l='world', x=-228.80, y=65.00, z=240.51]
-[04:24:57] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/82610, l='world', x=-227.80, y=65.00, z=242.80]
-[04:43:03] [Server thread/INFO]: Harmonis lost connection: Disconnected
-[04:43:03] [Server thread/INFO]: Harmonis left the game
-[04:48:33] [User Authenticator #16/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
-[04:48:33] [Server thread/INFO]: Harmonis[/72.39.70.249:61298] logged in with entity id 85234 at (-156.9870959281509, 11.0, 341.5033575524019)
-[04:48:33] [Server thread/INFO]: Harmonis joined the game
-[04:52:00] [Server thread/INFO]: Harmonis lost connection: Disconnected
-[04:52:00] [Server thread/INFO]: Harmonis left the game
-[17:15:21] [Server thread/INFO]: Stopping the server
-[17:15:21] [Server thread/INFO]: Stopping server
-[17:15:21] [Server thread/INFO]: Saving players
-[17:15:21] [Server thread/INFO]: Saving worlds
-[17:15:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:15:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:15:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:15:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:15:21] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:15:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:15:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:15:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:15:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:17:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:17:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:17:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:17:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:17:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:17:39] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:17:39] [Server thread/INFO]: Loading properties
+[17:17:39] [Server thread/INFO]: Default game type: SURVIVAL
+[17:17:39] [Server thread/INFO]: Generating keypair
+[17:17:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:17:39] [Server thread/INFO]: Using default channel type
+[17:17:39] [Server thread/INFO]: Preparing level "world"
+[17:17:39] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:17:43] [Server thread/INFO]: Loaded 6 recipes
+[17:17:44] [Server thread/INFO]: Loaded 825 advancements
+[17:17:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:17:44] [Server thread/INFO]: Preparing spawn area: 0%
+[17:17:44] [Server thread/INFO]: Preparing spawn area: 0%
+[17:17:45] [Server thread/INFO]: Time elapsed: 932 ms
+[17:17:45] [Server thread/INFO]: Done (5.555s)! For help, type "help"
