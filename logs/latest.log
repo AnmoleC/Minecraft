@@ -1,76 +1,61 @@
-[12:43:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:43:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:43:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:43:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:43:05] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[12:43:05] [Server thread/INFO]: Loading properties
-[12:43:05] [Server thread/INFO]: Default game type: SURVIVAL
-[12:43:05] [Server thread/INFO]: Generating keypair
-[12:43:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:43:05] [Server thread/INFO]: Using default channel type
-[12:43:06] [Server thread/INFO]: Preparing level "world"
-[12:43:06] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:43:10] [Server thread/INFO]: Loaded 6 recipes
-[12:43:10] [Server thread/INFO]: Loaded 825 advancements
-[12:43:10] [Server thread/ERROR]: Error loading saved data: raids
-java.io.IOException: Root tag must be a named compound tag
-	at kd.a(SourceFile:82) ~[server.jar:?]
-	at kd.a(SourceFile:74) ~[server.jar:?]
-	at crl.a(SourceFile:93) ~[server.jar:?]
-	at crl.c(SourceFile:71) [server.jar:?]
-	at crl.b(SourceFile:58) [server.jar:?]
-	at crl.a(SourceFile:42) [server.jar:?]
-	at xd.<init>(SourceFile:184) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:397) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:387) [server.jar:?]
-	at wd.d(SourceFile:219) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:628) [server.jar:?]
-	at java.lang.Thread.run(Thread.java:830) [?:?]
-[12:43:10] [Server thread/ERROR]: Error loading saved data: raids_nether
-java.io.IOException: Root tag must be a named compound tag
-	at kd.a(SourceFile:82) ~[server.jar:?]
-	at kd.a(SourceFile:74) ~[server.jar:?]
-	at crl.a(SourceFile:93) ~[server.jar:?]
-	at crl.c(SourceFile:71) [server.jar:?]
-	at crl.b(SourceFile:58) [server.jar:?]
-	at crl.a(SourceFile:42) [server.jar:?]
-	at xd.<init>(SourceFile:184) [server.jar:?]
-	at wv.<init>(SourceFile:15) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:435) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:387) [server.jar:?]
-	at wd.d(SourceFile:219) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:628) [server.jar:?]
-	at java.lang.Thread.run(Thread.java:830) [?:?]
-[12:43:10] [Server thread/ERROR]: Error loading saved data: raids_end
-java.io.IOException: Root tag must be a named compound tag
-	at kd.a(SourceFile:82) ~[server.jar:?]
-	at kd.a(SourceFile:74) ~[server.jar:?]
-	at crl.a(SourceFile:93) ~[server.jar:?]
-	at crl.c(SourceFile:71) [server.jar:?]
-	at crl.b(SourceFile:58) [server.jar:?]
-	at crl.a(SourceFile:42) [server.jar:?]
-	at xd.<init>(SourceFile:184) [server.jar:?]
-	at wv.<init>(SourceFile:15) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:435) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:387) [server.jar:?]
-	at wd.d(SourceFile:219) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:628) [server.jar:?]
-	at java.lang.Thread.run(Thread.java:830) [?:?]
-[12:43:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:43:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:43:11] [Server thread/INFO]: Preparing spawn area: 0%
-[12:43:11] [Server thread/INFO]: Time elapsed: 974 ms
-[12:43:11] [Server thread/INFO]: Done (5.511s)! For help, type "help"
-[12:43:26] [Server thread/INFO]: Stopping the server
-[12:43:26] [Server thread/INFO]: Stopping server
-[12:43:26] [Server thread/INFO]: Saving players
-[12:43:26] [Server thread/INFO]: Saving worlds
-[12:43:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[12:43:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:43:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[12:43:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:43:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[12:43:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:43:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:43:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:43:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:43:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:44:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:44:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:44:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:44:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:44:15] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[12:44:15] [Server thread/INFO]: Loading properties
+[12:44:15] [Server thread/INFO]: Default game type: SURVIVAL
+[12:44:15] [Server thread/INFO]: Generating keypair
+[12:44:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:44:16] [Server thread/INFO]: Using default channel type
+[12:44:16] [Server thread/INFO]: Preparing level "world"
+[12:44:16] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:44:16] [Server thread/INFO]: Loaded 6 recipes
+[12:44:16] [Server thread/INFO]: Loaded 825 advancements
+[12:44:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:44:17] [Server thread/INFO]: Preparing spawn area: 0%
+[12:44:17] [Server thread/INFO]: Preparing spawn area: 0%
+[12:44:18] [Server thread/INFO]: Time elapsed: 994 ms
+[12:44:18] [Server thread/INFO]: Done (1.775s)! For help, type "help"
+[12:44:27] [User Authenticator #1/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
+[12:44:27] [Server thread/INFO]: Harmonis[/72.39.70.249:58535] logged in with entity id 547 at (-219.84771615975563, 68.0, 224.76223965240723)
+[12:44:27] [Server thread/INFO]: Harmonis joined the game
+[12:44:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/645, l='world', x=-228.80, y=65.00, z=241.16]
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:48:33] [Server thread/ERROR]: Can't find any space for item in the inventory
+[12:54:59] [Server thread/INFO]: Harmonis lost connection: Disconnected
+[12:54:59] [Server thread/INFO]: Harmonis left the game
