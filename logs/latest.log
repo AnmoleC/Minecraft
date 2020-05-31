@@ -1,50 +1,19 @@
-[15:04:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:04:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:04:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:04:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:04:17] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[15:04:17] [Server thread/INFO]: Loading properties
-[15:04:17] [Server thread/INFO]: Default game type: SURVIVAL
-[15:04:17] [Server thread/INFO]: Generating keypair
-[15:04:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:04:17] [Server thread/INFO]: Using default channel type
-[15:04:18] [Server thread/INFO]: Preparing level "world"
-[15:04:18] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:04:22] [Server thread/INFO]: Loaded 6 recipes
-[15:04:22] [Server thread/INFO]: Loaded 825 advancements
-[15:04:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:04:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:04:23] [Server thread/INFO]: Preparing spawn area: 0%
-[15:04:23] [Server thread/INFO]: Time elapsed: 871 ms
-[15:04:23] [Server thread/INFO]: Done (5.350s)! For help, type "help"
-[19:10:18] [User Authenticator #1/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
-[19:10:18] [Server thread/INFO]: Harmonis[/72.39.70.249:49417] logged in with entity id 579 at (-354.18070960459613, 65.0, 261.0076975789474)
-[19:10:18] [Server thread/INFO]: Harmonis joined the game
-[19:12:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1115, l='world', x=-227.20, y=65.00, z=242.80]
-[19:15:03] [Server thread/INFO]: Harmonis lost connection: Disconnected
-[19:15:03] [Server thread/INFO]: Harmonis left the game
-[19:16:17] [User Authenticator #2/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
-[19:16:17] [Server thread/INFO]: Harmonis[/72.39.70.249:49706] logged in with entity id 1515 at (-222.51122340575088, 67.0, 208.65616183509505)
-[19:16:17] [Server thread/INFO]: Harmonis joined the game
-[19:17:33] [Server thread/INFO]: Harmonis lost connection: Disconnected
-[19:17:33] [Server thread/INFO]: Harmonis left the game
-[19:18:43] [User Authenticator #3/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
-[19:18:43] [Server thread/INFO]: Harmonis[/72.39.70.249:49847] logged in with entity id 1703 at (-229.26669355881754, 75.875, 220.48277150696507)
-[19:18:43] [Server thread/INFO]: Harmonis joined the game
-[19:21:31] [Server thread/INFO]: Harmonis lost connection: Disconnected
-[19:21:31] [Server thread/INFO]: Harmonis left the game
-[19:21:56] [User Authenticator #4/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
-[19:21:56] [Server thread/INFO]: Harmonis[/72.39.70.249:49954] logged in with entity id 2098 at (-229.26669355881754, 75.875, 220.48277150696507)
-[19:21:56] [Server thread/INFO]: Harmonis joined the game
-[19:23:29] [Server thread/INFO]: Harmonis lost connection: Disconnected
-[19:23:29] [Server thread/INFO]: Harmonis left the game
-[19:54:30] [User Authenticator #5/INFO]: UUID of player Harmonis is 70b33bc6-fd97-495f-9fbc-4084a1ca04e5
-[19:54:30] [Server thread/INFO]: Harmonis[/72.39.70.249:50940] logged in with entity id 2316 at (-215.6790269027835, 67.0, 222.52177631341496)
-[19:54:30] [Server thread/INFO]: Harmonis joined the game
-[19:59:14] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2931, l='world', x=-228.59, y=66.00, z=243.17]
-[20:02:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3415, l='world', x=-228.34, y=65.00, z=240.20]
-[20:02:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3458, l='world', x=-228.37, y=65.00, z=240.52]
-[20:07:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/4080, l='world', x=-228.80, y=65.00, z=241.11]
-[20:10:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/4468, l='world', x=-227.80, y=65.00, z=242.17]
-[20:15:15] [Server thread/INFO]: Harmonis lost connection: Disconnected
-[20:15:15] [Server thread/INFO]: Harmonis left the game
+[18:42:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:42:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:42:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:42:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:42:31] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[18:42:31] [Server thread/INFO]: Loading properties
+[18:42:31] [Server thread/INFO]: Default game type: SURVIVAL
+[18:42:31] [Server thread/INFO]: Generating keypair
+[18:42:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:42:31] [Server thread/INFO]: Using default channel type
+[18:42:32] [Server thread/INFO]: Preparing level "world"
+[18:42:32] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:42:36] [Server thread/INFO]: Loaded 6 recipes
+[18:42:36] [Server thread/INFO]: Loaded 825 advancements
+[18:42:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:42:37] [Server thread/INFO]: Preparing spawn area: 0%
+[18:42:37] [Server thread/INFO]: Preparing spawn area: 0%
+[18:42:37] [Server thread/INFO]: Time elapsed: 991 ms
+[18:42:37] [Server thread/INFO]: Done (5.717s)! For help, type "help"
